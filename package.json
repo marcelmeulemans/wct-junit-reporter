@@ -1,0 +1,32 @@
+{
+    "name": "wct-junit-reporter",
+    "version": "0.1.0",
+    "description": "JUint format reporting for projects being tested by web-component-tester",
+    "main": "lib/plugin.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcelmeulemans/wct-junit-reporter.git"
+    },
+    "keywords": [
+        "web-component-tester",
+        "wct",
+        "reporter",
+        "junit"
+    ],
+    "author": {
+        "name": "Marcel Meulemans"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "git+https://github.com/marcelmeulemans/wct-junit-reporter/issues"
+    },
+    "homepage": "https://github.com/marcelmeulemans/wct-junit-reporter",
+    "dependencies": {
+        "pixl-xml": "^1.0.4",
+        "lodash": "^3.10.1"
+    },
+    "wct-plugin": {
+        "cli-options": {
+        }
+    }
+}
