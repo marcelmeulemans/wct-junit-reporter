@@ -23,7 +23,8 @@
     "homepage": "https://github.com/marcelmeulemans/wct-junit-reporter",
     "dependencies": {
         "pixl-xml": "^1.0.4",
-        "lodash": "^3.10.1"
+        "lodash": "^3.10.1",
+        "he": "^0.5.0"
     },
     "wct-plugin": {
         "cli-options": {
