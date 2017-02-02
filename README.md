@@ -27,3 +27,4 @@ module.exports = {
 ## Options
 
 Below are the available configuration options:
+`appendMode` - if set to true then test results are appended to existing file.
