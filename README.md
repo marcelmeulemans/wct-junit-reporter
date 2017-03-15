@@ -28,3 +28,5 @@ module.exports = {
 
 Below are the available configuration options:
 `appendMode` - if set to true then test results are appended to existing file.
+`output.path` - defaults to cwd of the wct
+`output.name` - defaults to test-report
